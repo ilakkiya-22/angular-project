@@ -17,6 +17,7 @@ Object1:Array<any>=[{name:'Yashna',age:'24'},{firstname:'Shadhvik',last:'20'}];
 
 
 
+
   
 stringDisplay():void{
   console.log(this.a);
