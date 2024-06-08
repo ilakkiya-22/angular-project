@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family:"Poppins-Bold" ;
+    src: url(../../first/src/assets/fonts/Poppins-Bold.ttf);
+  }
+  
+:root {
+      --yellow: #fec008;
+      --black: #000610;
+      --green: #18a2b7;
+      --peach:rgb(187, 228, 239);
+      --navy:rgb(103, 103, 241);
+      --title: hsl(211, 10%, 58%);
+      --blue:#3d54d0;
+      --task:rgb(197, 195, 195);
+      --background: rgb(240, 239, 239);
+      --main: #353941;
+      --nav-color: #f7f9fb;
+      --font-bold: "Poppins-Bold";
+      --font-semibold: "OpenSans-SemiBold"
+      --header-background:#efefef; 
+      --button-color:#f7d9c4;
+    }

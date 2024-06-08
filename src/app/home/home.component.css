@@ -1,0 +1,74 @@
+.homie{
+    padding: 150px 100px 10px;
+    font-size: 45px;
+}
+.img1{
+    font-size: 16px;
+    margin-left: -16px;
+    margin-right: -16px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .ptag{
+      /* display: block; */
+      margin-block-start: 1em; 
+      font-size: 20px;
+      padding: 0px 0px 50px;
+      /* margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      unicode-bidi: isolate; */
+  }
+  .h6tag{
+    font-family: var(--font-semibold);
+    font-size: 20px;
+  
+  }
+  .h1tag{
+    font-family: var(--font-bold);
+    padding: 7px 2px 5px;
+    font-size: 70px;
+  }
+
+  .mb-button {
+  
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 1rem; 
+  }
+  .mb-1{
+    background-color: #f7d9c4;
+    color: black;
+    font-family: var(--font-bold);
+    padding: 16px 42px 15px;
+    display: flex;
+    border-radius: 5px;
+    border-style: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .mb-2{
+    text-decoration: none;
+  }
+  
+  
+  
+  .h1c-1 {
+    padding-top: 150px;
+    padding-bottom: 10px;
+    /* background-image: url(./Header/Assets/images/mbr.jpg); */
+    background-image: url(../../assets/images/mbr.jpg);
+    background-position: 50% 50%;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100vh; 
+    
+  }
+  .contol{
+    padding: 150px 90px 25px;
+   
+  }
